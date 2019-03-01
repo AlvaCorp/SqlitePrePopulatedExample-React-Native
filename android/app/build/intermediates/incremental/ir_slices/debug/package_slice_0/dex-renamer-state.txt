@@ -1,0 +1,4 @@
+#Mon Feb 11 23:29:02 IST 2019
+base.0=/Users/kepi/Desktop/RNWork/SQLiteExample/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

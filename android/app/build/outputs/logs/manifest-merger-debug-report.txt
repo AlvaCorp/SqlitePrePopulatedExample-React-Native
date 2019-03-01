@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-sqlite-storage] /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/node_modules/react-native-sqlite-storage/src/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/kepi/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/1e554264e001ff290fde70edfb501064/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/dc5927962620ddedf093e0f5ad9e3a60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/52b16a9884b3f97eb733c71c39113258/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/409e1ab1dde6d666e9745d9ab6ccf1d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2dec12f19efbb7c928408a20ce482212/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c916d908292e9dbce1cfb45d4eca5e31/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d7fc94763c911b2683abfccfcb6642c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6ba3d48a89de9dbb730712914b7b1a0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3a56d9df9b4588d465df4e522cf7b8ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/27041b5e6fdb3ac321fdcb14b7f329d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6a37ec858bb71815c5f7e94b8f3b493c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/432795b0c5026213351a7176e0c3e42f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f99f2db2ededa5291bd8aa996e4d3437/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4318baf80ec9f8ec226a5f2f866dd0b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4a8be93a256cff73681ef428a4d99fdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d902433d13a66ee7936e8e630b30bfa1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/dd0165aeafc629e121897c892dce229f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/52bebd14e02c07d79311c26e262a32f0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8f01f25258dc88f69f0865f7c1c75ee1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1629bce063a61ca94b6ad4c6dc2d432e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2907fa38db55ba997eda28ebcf4808b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c152903fbf71156416668850d6782bec/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/476e5404afe248289a6438d16e125a19/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/360329acacb9c790546362513aa05871/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b6738d94a0bc01ff91ed4f7ac5ec0786/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3c562cccc0ad26b9cb7fb80359503dc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/dccce8e7aca6dfc5780ecea3f355ef89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/aff906273068b4bf623afe8b857a2a74/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/ae50e48ecab80db59dc307c0ef256d84/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/d87d3eefcc7386ef77cbc436a0659089/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/deaa6a82c5fd6546e283b25eff4043c1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/6f21636dfb191d0e46e3763a6bdc9b92/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/44ee1e3acc592d8c32a8188ce56181e7/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/kepi/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/95e8ea5d29b99e105d3d19c5b18fbae3/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/fa46becfa329ebf2c6b8fb896288d9b1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/kepi/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/1e554264e001ff290fde70edfb501064/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/kepi/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/1e554264e001ff290fde70edfb501064/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/kepi/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/1e554264e001ff290fde70edfb501064/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/kepi/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/1e554264e001ff290fde70edfb501064/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d902433d13a66ee7936e8e630b30bfa1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d902433d13a66ee7936e8e630b30bfa1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/dd0165aeafc629e121897c892dce229f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/dd0165aeafc629e121897c892dce229f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/44ee1e3acc592d8c32a8188ce56181e7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/44ee1e3acc592d8c32a8188ce56181e7/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/kepi/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/95e8ea5d29b99e105d3d19c5b18fbae3/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/kepi/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/95e8ea5d29b99e105d3d19c5b18fbae3/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d902433d13a66ee7936e8e630b30bfa1/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.sqliteexample.MainActivity
+ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-sqlite-storage] /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/node_modules/react-native-sqlite-storage/src/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sqlite-storage] /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/node_modules/react-native-sqlite-storage/src/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/kepi/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/1e554264e001ff290fde70edfb501064/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/kepi/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/1e554264e001ff290fde70edfb501064/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/dc5927962620ddedf093e0f5ad9e3a60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/dc5927962620ddedf093e0f5ad9e3a60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/52b16a9884b3f97eb733c71c39113258/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/52b16a9884b3f97eb733c71c39113258/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/409e1ab1dde6d666e9745d9ab6ccf1d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/409e1ab1dde6d666e9745d9ab6ccf1d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2dec12f19efbb7c928408a20ce482212/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2dec12f19efbb7c928408a20ce482212/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c916d908292e9dbce1cfb45d4eca5e31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c916d908292e9dbce1cfb45d4eca5e31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d7fc94763c911b2683abfccfcb6642c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d7fc94763c911b2683abfccfcb6642c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6ba3d48a89de9dbb730712914b7b1a0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6ba3d48a89de9dbb730712914b7b1a0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3a56d9df9b4588d465df4e522cf7b8ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3a56d9df9b4588d465df4e522cf7b8ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/27041b5e6fdb3ac321fdcb14b7f329d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/27041b5e6fdb3ac321fdcb14b7f329d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6a37ec858bb71815c5f7e94b8f3b493c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6a37ec858bb71815c5f7e94b8f3b493c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/432795b0c5026213351a7176e0c3e42f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/432795b0c5026213351a7176e0c3e42f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f99f2db2ededa5291bd8aa996e4d3437/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f99f2db2ededa5291bd8aa996e4d3437/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4318baf80ec9f8ec226a5f2f866dd0b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4318baf80ec9f8ec226a5f2f866dd0b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4a8be93a256cff73681ef428a4d99fdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4a8be93a256cff73681ef428a4d99fdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d902433d13a66ee7936e8e630b30bfa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d902433d13a66ee7936e8e630b30bfa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/dd0165aeafc629e121897c892dce229f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/dd0165aeafc629e121897c892dce229f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/52bebd14e02c07d79311c26e262a32f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/52bebd14e02c07d79311c26e262a32f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8f01f25258dc88f69f0865f7c1c75ee1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8f01f25258dc88f69f0865f7c1c75ee1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1629bce063a61ca94b6ad4c6dc2d432e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1629bce063a61ca94b6ad4c6dc2d432e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2907fa38db55ba997eda28ebcf4808b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2907fa38db55ba997eda28ebcf4808b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c152903fbf71156416668850d6782bec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c152903fbf71156416668850d6782bec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/476e5404afe248289a6438d16e125a19/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/476e5404afe248289a6438d16e125a19/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/360329acacb9c790546362513aa05871/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/360329acacb9c790546362513aa05871/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b6738d94a0bc01ff91ed4f7ac5ec0786/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b6738d94a0bc01ff91ed4f7ac5ec0786/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3c562cccc0ad26b9cb7fb80359503dc0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kepi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3c562cccc0ad26b9cb7fb80359503dc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/dccce8e7aca6dfc5780ecea3f355ef89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/dccce8e7aca6dfc5780ecea3f355ef89/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/aff906273068b4bf623afe8b857a2a74/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/aff906273068b4bf623afe8b857a2a74/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/ae50e48ecab80db59dc307c0ef256d84/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/ae50e48ecab80db59dc307c0ef256d84/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/d87d3eefcc7386ef77cbc436a0659089/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/d87d3eefcc7386ef77cbc436a0659089/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/deaa6a82c5fd6546e283b25eff4043c1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/deaa6a82c5fd6546e283b25eff4043c1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/6f21636dfb191d0e46e3763a6bdc9b92/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/6f21636dfb191d0e46e3763a6bdc9b92/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/44ee1e3acc592d8c32a8188ce56181e7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/44ee1e3acc592d8c32a8188ce56181e7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/fa46becfa329ebf2c6b8fb896288d9b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/kepi/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/fa46becfa329ebf2c6b8fb896288d9b1/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/kepi/Desktop/RNWork/SQLitePrepopulatedExample/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
